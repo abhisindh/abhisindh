@@ -30,6 +30,9 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/abhisindh#gh-dark-mode-only)
 
 ### Languages and Tools:
+[<img align="left" alt="Jupyter" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;" />](https://jupyter.org/)
+[<img align="left" alt="tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" style="padding-right:10px;" />](https://www.tensorflow.org/)
+[<img align="left" alt="colab" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/6/63/Colab_favicon_256px.png/revision/latest?cb=20201019224542" style="padding-right:10px;" />](https://colab.research.google.com/)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.com/html5/)
