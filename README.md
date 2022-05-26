@@ -30,6 +30,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/abhisindh#gh-dark-mode-only)
 
 ### Languages and Tools:
+[<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="Jupyter" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:10px;" />](https://jupyter.org/)
 [<img align="left" alt="tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" style="padding-right:10px;" />](https://www.tensorflow.org/)
 [<img align="left" alt="colab" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/6/63/Colab_favicon_256px.png/revision/latest?cb=20201019224542" style="padding-right:10px;" />](https://colab.research.google.com/)
