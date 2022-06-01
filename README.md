@@ -13,7 +13,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisindh123@gmail.com)
 
-- 🌱 I’m currently learning OpenCV [<img alt="OpenCV" width="26px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" style="padding-left:10px;"/>](https://opencv.org/)  
+- 🌱 I’m currently learning OpenCV [<img alt="OpenCV" width="13px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" style="padding-left:10px;"/>](https://opencv.org/)  
 - 👯 I’m looking to collaborate with data analysts
 - 🥅 2022 Goals: Learn more about data analysis
 - ⚡ Fun fact: I love to play guitar 
@@ -46,7 +46,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
 
 [<img align="left" alt="OpenCV" width="26px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" style="padding-right:10px;"/>](https://opencv.org/) 
 <br />
