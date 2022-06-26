@@ -13,7 +13,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisindh123@gmail.com)
 
-- 🌱 I’m currently learning OpenCV [<img alt="OpenCV" width="13px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" style="padding-left:10px;"/>](https://opencv.org/)  
+- 🌱 I’m currently learning Data Science from [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - 👯 I’m looking to collaborate with data analysts
 - 🥅 2022 Goals: Learn more about data analysis
 - ⚡ Fun fact: I love to play guitar 
