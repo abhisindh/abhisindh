@@ -1,12 +1,12 @@
 # Hi there, I'm Abhisindh Chatterjee 👋
 
-[![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-brightgreen)](https://abhisindh.netlify.app/)
-[![Web Development](https://img.shields.io/badge/-Web%20Development-green)](https://abhisindh.netlify.app/)
-[![Python Coding](https://img.shields.io/badge/-Python%20Coding-brightgreen)](https://abhisindh.netlify.app/)
-[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green)](https://abhisindh.netlify.app/)
-[![C Programming](https://img.shields.io/badge/-C%20Programming-brightgreen)](https://abhisindh.netlify.app/)
+[![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-brightgreen)](https://abhisindh.github.io/website)
+[![Web Development](https://img.shields.io/badge/-Web%20Development-green)](https://abhisindh.github.io/website)
+[![Python Coding](https://img.shields.io/badge/-Python%20Coding-brightgreen)](https://abhisindh.github.io/website)
+[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green)](https://abhisindh.github.io/website)
+[![C Programming](https://img.shields.io/badge/-C%20Programming-brightgreen)](https://abhisindh.github.io/website)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhisindh.netlify.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhisindh.github.io/website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisindh)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10572241)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisindh123@gmail.com)
@@ -24,8 +24,8 @@ I'm always on the lookout for new challenges and opportunities to learn. Whether
 
 ## Connect with Me
 
-[![website](./img/globe-light.svg)](https://abhisindh.netlify.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://abhisindh.netlify.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://abhisindh.github.io/website#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://abhisindh.github.io/website#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhisindh#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhisindh#gh-dark-mode-only)
