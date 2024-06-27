@@ -30,8 +30,8 @@ I'm always on the lookout for new challenges and opportunities to learn. Whether
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhisindh#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhisindh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/abhisindh#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/abhisindh#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/abhi_sindh#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/abhi_sindh#gh-dark-mode-only)
 
 ## Languages and Tools
 
