@@ -118,7 +118,7 @@ These are some examples of my proficiency with the mentioned technologies, prese
 
 - **Bachelor of Science in Mathematics** (SD College, Kerala University, Graduation Year: 2022)
 
-- **Relevant Online Courses and Certifications**
+- **Online Courses and Certifications**
   - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) - Coursera
 
 
