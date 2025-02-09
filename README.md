@@ -81,7 +81,7 @@ I have started using R for statistical analysis and data visualization, leveragi
 
 ### Scilab
 
-[<img align="left" alt="Scilab" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/6/63/Scilab_Logo.png](https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png)" style="padding-right:10px;" />](https://www.scilab.org/)
+[<img align="left" alt="Scilab" width="26px" src="https://www.scilab.org/themes/bs43ds/img/scilab-logo.png?v20201103" style="padding-right:10px;" />](https://www.scilab.org/)
 
 Scilab has been a useful tool for numerical computations and simulations, enhancing my understanding of mathematical modeling.
 
