@@ -8,19 +8,21 @@
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhisindh.github.io/website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisindh)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10572241)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisindh123@gmail.com)
 
 ## About Me
 
-Hi, I'm Abhisindh, and I'm excited to share a bit about myself with you! My passion lies in programming and data science, and I've been on an incredible journey exploring various aspects of these fields. Python is my absolute favorite language! It's like my trusty sidekick that I turn to for all sorts of projects. From whipping up quick scripts and automating tasks to diving into web development and analyzing data, Python's got my back. I'd say I've become quite the expert in it!
+Hello! I'm Abhisindh Chatterjee, a passionate programmer and data enthusiast with a strong foundation in computational mathematics. My journey in the tech world has been fueled by a love for problem-solving and a curiosity for how things work under the hood.
 
-JavaScript is another language I enjoy working with, especially for creating interactive web experiences. And oh, have you heard of OpenCV? I've tinkered with it, working on computer vision tasks and image processing projects. Seeing computers "understand" images is mind-blowing! Data science is right up my alley! With Python's powerful libraries like Pandas and NumPy, I've dived headfirst into data analysis, uncovering hidden insights and patterns. Machine learning is a real game-changer, and I've been enjoying building and training models for predictive analytics and pattern recognition.
+Python is my go-to language for a wide range of projects, from automating tasks and developing web applications to conducting in-depth data analysis. Its versatility and powerful libraries like Pandas and NumPy have enabled me to uncover insights and patterns in data, making it an indispensable tool in my toolkit.
 
-On the web development front, I'm comfortable with HTML and CSS, building attractive and responsive websites is so much fun! When it comes to databases, SQL is what I'm getting into. Managing data efficiently is crucial, and I'm eager to master it. Git is my buddy for version control in collaborative projects.
+My academic background in operations research and graph theory has provided me with a solid understanding of the mathematical principles underlying many algorithms. This knowledge, coupled with hands-on experience from internships, has sparked a deep interest in computational mathematics. I am particularly fascinated by how these mathematical concepts can be applied to solve complex computational problems.
 
-I'm always on the lookout for new challenges and opportunities to learn. Whether it's developing innovative software or contributing to exciting projects, count me in! Feel free to check out my GitHub repositories to see what I've been up to. If you want to collaborate or have any questions, don't hesitate to reach out. Let's make the world a little better with technology together! 😄
+In addition to Python, I enjoy working with JavaScript to create interactive web experiences. I've also explored the world of computer vision with OpenCV, where I've developed projects that allow computers to "see" and interpret images—a truly exciting field!
 
+On the web development front, I'm skilled in HTML and CSS, and I find joy in crafting responsive and visually appealing websites. I'm also delving into SQL to enhance my ability to manage and query databases effectively.
+
+I'm always eager to take on new challenges and collaborate on innovative projects. If you're interested in working together or have any questions, feel free to reach out. Let's harness the power of technology to make a positive impact on the world! 😄
 
 ## Connect with Me
 
@@ -71,16 +73,45 @@ I utilize Git for version control and collaborative development. It enables me t
 
 I am currently exploring the fundamentals of C programming and honing my skills through various coding exercises and challenges. As a newcomer to C, I find it exciting to discover its powerful capabilities in low-level programming and algorithmic design. I look forward to applying my C knowledge to develop efficient solutions in the future.
 
+### R
+
+[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" style="padding-right:10px;" />](https://www.r-project.org/)
+
+I have started using R for statistical analysis and data visualization, leveraging its powerful packages to gain insights from data.
+
+### Scilab
+
+[<img align="left" alt="Scilab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Scilab_Logo.png" style="padding-right:10px;" />](https://www.scilab.org/)
+
+Scilab has been a useful tool for numerical computations and simulations, enhancing my understanding of mathematical modeling.
+
 ### Databases
 
 [<img align="left" alt="Databases" width="26px" src="https://img.icons8.com/ios/50/000000/database.png" style="padding-right:10px;" />](https://www.mysql.com/)
 
 While my SQL skills are at a beginner level, I am actively learning SQL and MySQL for querying and managing databases in data-driven projects.
 
-These are some examples of my proficiency with the mentioned technologies, presented in the order of importance based on my experience. As an enthusiastic learner, I am continually expanding my skillset to stay at the forefront of the rapidly evolving data and machine learning landscape.
+## Professional Experience
 
+### Internship at Mahindra University Hyderabad
+- **Project**: Examination Timetabling Problem using Genetic Algorithm
+- Developed a solution for optimizing examination schedules using genetic algorithms.
+- Gained hands-on experience in applying advanced algorithms to solve complex scheduling problems.
+- Collaborated with academic professionals to understand and address real-world constraints in timetabling.
+
+### Online Internship at IIT Guwahati
+- **Focus**: Data Analytics
+- Engaged in data analytics projects, applying statistical methods and data visualization techniques.
+- Enhanced skills in data manipulation and analysis using tools like Python and R.
+- Worked on real-world datasets to extract meaningful insights and support decision-making processes.
 
 ## Projects
+
+### OCR PDF Tool
+- Developed a Python-based application to convert scanned PDFs into searchable PDFs using Optical Character Recognition (OCR).
+- Implemented a user-friendly GUI for selecting input PDFs, processing them with OCR, and saving the output.
+- Utilized `pytesseract` for OCR, `pdf2image` for PDF to image conversion, and `PyMuPDF` for handling PDFs.
+- [Link to Repository](#) *(Please replace with the actual link to your repository)*
 
 ### Bellabeat Product Analysis
 - A data analysis case study focusing on real-world tasks of a junior data analyst.
@@ -104,13 +135,6 @@ These are some examples of my proficiency with the mentioned technologies, prese
 - Includes common data structures like linked lists, stacks, queues, and various sorting algorithms.
 - [Link to Repository](https://github.com/abhisindh/Data-Structures-and-Algorithms)
 
-### Friendship Dare Website
-- Developed a web application using HTML, CSS, and JavaScript.
-- Implemented an innovative algorithm to encode and store user responses as queries.
-- Leveraged technical know-how to create fun and engaging friendship dares for users.
-- Demonstrated problem-solving skills in designing the website's interactive features.
-- [Link to Repository](https://github.com/abhisindh/friendship-dare)
-
 ## Education
 
 - **Master of Science in Mathematics** (National Institute of Technology - NIT, Expected Graduation Year: 2025)
@@ -121,12 +145,14 @@ These are some examples of my proficiency with the mentioned technologies, prese
 - **Online Courses and Certifications**
   - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) - Coursera
 
-
 ## Skills
+
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/Python-Advanced-brightgreen) ◉◉◉◉◉◉◉◉◉◉
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) ◉◉◉◉◉◉◎◎◎◎
 - ![C](https://img.shields.io/badge/C-Beginner-red) ◉◎◎◎◎◎◎◎◎◎
+- ![R](https://img.shields.io/badge/R-Beginner-red) ◉◎◎◎◎◎◎◎◎◎
+- ![Scilab](https://img.shields.io/badge/Scilab-Beginner-red) ◉◎◎◎◎◎◎◎◎◎
 
 ### Data Science and Analysis
 - ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-yellow) ◉◉◉◉◉◉◉◎◎◎
@@ -142,13 +168,3 @@ These are some examples of my proficiency with the mentioned technologies, prese
 
 ### Version Control
 - ![Git](https://img.shields.io/badge/Git-Beginner-red) ◉◎◎◎◎◎◎◎◎◎
-
-
-
-
-
-
-
-
-
-
