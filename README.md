@@ -81,7 +81,7 @@ I have started using R for statistical analysis and data visualization, leveragi
 
 ### Scilab
 
-[<img align="left" alt="Scilab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Scilab_Logo.png" style="padding-right:10px;" />](https://www.scilab.org/)
+[<img align="left" alt="Scilab" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/6/63/Scilab_Logo.png](https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png)" style="padding-right:10px;" />](https://www.scilab.org/)
 
 Scilab has been a useful tool for numerical computations and simulations, enhancing my understanding of mathematical modeling.
 
@@ -111,7 +111,7 @@ While my SQL skills are at a beginner level, I am actively learning SQL and MySQ
 - Developed a Python-based application to convert scanned PDFs into searchable PDFs using Optical Character Recognition (OCR).
 - Implemented a user-friendly GUI for selecting input PDFs, processing them with OCR, and saving the output.
 - Utilized `pytesseract` for OCR, `pdf2image` for PDF to image conversion, and `PyMuPDF` for handling PDFs.
-- [Link to Repository](#) *(Please replace with the actual link to your repository)*
+- [Link to Repository](https://github.com/abhisindh/ocr_converter) 
 
 ### Bellabeat Product Analysis
 - A data analysis case study focusing on real-world tasks of a junior data analyst.
